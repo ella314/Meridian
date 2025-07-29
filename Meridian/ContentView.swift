@@ -10,7 +10,8 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Text("Change 1")
+            Text("Change 3")
+            Text ("C4")
         }
     }
 }
